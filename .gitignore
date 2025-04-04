@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local machine untracked files
+.idea
+.DS_Store
+.env*
+.in
+.out
+pocs/
+cache/
+launch.json
+
+# secret env files
+.env

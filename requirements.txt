@@ -1,0 +1,12 @@
+pydantic
+pydantic-settings
+numpy
+tiktoken
+openai
+pandas
+datasets
+together
+nltk
+google-genai
+rouge-score
+scipy
